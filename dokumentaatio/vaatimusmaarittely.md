@@ -1,13 +1,13 @@
-#Vaatimusmäärittely
+# Vaatimusmäärittely
 
-####Sovelluksen tarkoitus
+## Sovelluksen tarkoitus
 
 Tarkoituksena on tehdä graafisen käyttöliittymän kautta pelattava Baccarat korttipeli. Baccaratista on useita muunnelmia, 
 joissa pelin kulku ja säännöt vaihtelevat. Tarkoituksena on toteuttaa Chemin de fer -niminen versio pelistä. 
  
-####Perusversion tarjoama toiminnallisuus
+## Perusversion tarjoama toiminnallisuus
 
-###### Aloitusvalikko
+#### Aloitusvalikko
 
 * Käyttäjä luo uniikin pelaajanimen
 
@@ -15,7 +15,7 @@ joissa pelin kulku ja säännöt vaihtelevat. Tarkoituksena on toteuttaa Chemin 
 
 * vanhan pelaajanimen voi myös poistaa listasta
 
-###### Pelinäkymä
+#### Pelinäkymä
 
 * pelaaja valitsee panoksen ja peli alkaa
 
@@ -25,7 +25,7 @@ joissa pelin kulku ja säännöt vaihtelevat. Tarkoituksena on toteuttaa Chemin 
 
 * jos pelaajan rahat loppuvat niin tämä voi aloittaa uuden pelin uudella rahamäärällä
 
-####Jatkokehitysideoita
+## Jatkokehitysideoita
 
 Perusversiota voidaan kehittää seuraavilla toiminnallisuuksilla
 

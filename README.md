@@ -15,4 +15,4 @@ muutos
 
 ## Baccarat
 
-
+[vaatimusmäärittely](https://github.com/samvancart/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
