@@ -12,3 +12,7 @@ muutos
 [osa2: unicafe](https://github.com/samvancart/ot-harjoitustyo/tree/master/laskarit/viikko2/Unicafe)
 
 [osa2: testikattavuus.png](https://github.com/samvancart/ot-harjoitustyo/blob/master/laskarit/viikko2/testikattavuus.png)
+
+## Baccarat
+
+
