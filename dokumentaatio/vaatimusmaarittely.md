@@ -29,11 +29,11 @@ joissa pelin kulku ja säännöt vaihtelevat. Tarkoituksena on toteuttaa Chemin 
 
 Perusversiota voidaan kehittää seuraavilla toiminnallisuuksilla
 
-* pelin säännöt näkyville
+* mahdollisuus tarkastella pelin sääntöjä
 
 * alussa maksimipanos ja rahamäärä ovat pieniä, mutta pelaaja voi edetä rahamäärän kasvaessa suurempien panosten peleihin
 
-* pelin eri muunnelmien valinta ja pelaaminen
+* pelin eri muunnelmien toteutus
 
-* graafien käyttöliittymän kehitys
+* graafisen käyttöliittymän kehitys
 

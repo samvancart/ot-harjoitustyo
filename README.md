@@ -1,4 +1,4 @@
-# Ohjelmistotekniikka, harjoitustyö
+# Ohjelmistotekniikka, harjoitustyö (Baccarat korttipeli)
 ## Tehtävät
 #### Viikko 1
 [gitlog.txt](https://github.com/samvancart/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
@@ -13,6 +13,6 @@ muutos
 
 [osa2: testikattavuus.png](https://github.com/samvancart/ot-harjoitustyo/blob/master/laskarit/viikko2/testikattavuus.png)
 
-## Baccarat
+## Dokumentaatio
 
 [vaatimusmäärittely](https://github.com/samvancart/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
