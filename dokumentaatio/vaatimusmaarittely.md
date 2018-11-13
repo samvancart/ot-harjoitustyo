@@ -9,7 +9,7 @@ joissa pelin kulku ja säännöt vaihtelevat. Tarkoituksena on toteuttaa Chemin 
 
 #### Aloitusvalikko
 
-* Käyttäjä luo uniikin pelaajanimen
+* käyttäjä luo uniikin pelaajanimen tai käyttää oletusnimeä
 
 * käyttäjä voi aloittaa uuden pelin valitsemallaan rahamäärällä tai jatkaa vanhaa
 
@@ -21,7 +21,7 @@ joissa pelin kulku ja säännöt vaihtelevat. Tarkoituksena on toteuttaa Chemin 
 
 * pelaaja tekee tarvittavat valinnat korttien suhteen itse klikkaamalla
 
-* pankki tekee valinnat automaattisesti
+* vastustaja tekee valinnat automaattisesti
 
 * jos pelaajan rahat loppuvat niin tämä voi aloittaa uuden pelin uudella rahamäärällä
 
