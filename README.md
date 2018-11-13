@@ -13,6 +13,13 @@ muutos
 
 [osa2: testikattavuus.png](https://github.com/samvancart/ot-harjoitustyo/blob/master/laskarit/viikko2/testikattavuus.png)
 
+#### Viikko 3
+[tehtävät 1 ja 2](https://github.com/samvancart/ot-harjoitustyo/blob/master/laskarit/viikko3/umlMonopoli.jpg)
+
+[tehtävä 3](https://github.com/samvancart/ot-harjoitustyo/blob/master/laskarit/viikko3/viikko3_teht3_Machine.png)
+
+[tehtävä 4](https://github.com/samvancart/ot-harjoitustyo/blob/master/laskarit/viikko3/viikko3_teht_4_HSL.png)
+
 ## Dokumentaatio
 
 [Vaatimusmäärittely](https://github.com/samvancart/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
